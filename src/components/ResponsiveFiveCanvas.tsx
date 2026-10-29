@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import { useCallback, useState, useEffect } from 'react';
 import { FiveCanvas } from '@realsee/five/react';
 

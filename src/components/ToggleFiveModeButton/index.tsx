@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import { Five } from '@realsee/five';
 import { useFiveCurrentState } from '@realsee/five/react';
 import { useCallback } from 'react';
